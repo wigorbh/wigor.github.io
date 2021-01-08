@@ -137,7 +137,7 @@ a:hover {
 
 .title-s {
   font-weight: 600;
-  color: #1e1e1e;
+  color: #ffffff;
   font-size: 1.1rem;
 }
 
@@ -674,6 +674,12 @@ a:hover {
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
+  background-color:  #0b2c33;
+  box-shadow: #413939 5px 5px 5px;
+}
+
+.white {
+  color:  #fff !important;
 }
 
 .about-mf .about-img {
@@ -697,7 +703,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #0078ff;
+  background-color: #0f1011;
 }
 
 /*======================================
